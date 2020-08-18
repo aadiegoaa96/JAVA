@@ -17,6 +17,36 @@ EMBEDDED AND WEB SOFTWARE
 
 
 
+![INDUSTRIAL CONTROL JAVA 2](https://user-images.githubusercontent.com/22797982/90487355-f9c5e600-e0ff-11ea-9f2a-bb0fdc04311a.jpg)
+
+
+
+
+![INDUSTRIAL CONTROL JAVA 3](https://user-images.githubusercontent.com/22797982/90487456-2417a380-e100-11ea-9209-193b2b9b3918.jpg)
+
+
+
+
+
+![INDUSTRIAL CONTROL JAVA 4](https://user-images.githubusercontent.com/22797982/90487628-57f2c900-e100-11ea-844b-b508b8fdb138.jpg)
+
+
+
+
+
+![INDUSTRIAL CONTROL JAVA 5](https://user-images.githubusercontent.com/22797982/90487804-938d9300-e100-11ea-966e-66ac05a308e3.jpg)
+
+
+
+
+
+
+![INDUSTRIAL CONTROL JAVA 6](https://user-images.githubusercontent.com/22797982/90487936-be77e700-e100-11ea-98dd-c4e0818fcae1.jpg)
+
+
+
+
+
 
 ### Pre-requisitos 📋
 * Arduino IDE
