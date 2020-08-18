@@ -15,16 +15,15 @@ EMBEDDED AND WEB SOFTWARE
 
 ### Pre-requisitos 📋
 * Arduino IDE
-* C# LANGUAGE
-* VISUAL STUDIO .NET FRAMEWORK
-* ZEDGRAPH LIBRARY
-* PROTEUS DESIGN SUITE
+* JAVA SDK
+* NETBEANS IDE
+* JAVADUINO HITEK LIBRARY
+* POTENCIOMETER
+* LED
 
 ### Instalación 🔧
 
 * https://github.com/PanamaHitek/PanamaHitek_Arduino
-* https://visualstudio.microsoft.com/es/vs/
-* https://www.labcenter.com/pcb/
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
