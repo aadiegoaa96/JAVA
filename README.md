@@ -9,7 +9,13 @@ EMBEDDED AND WEB SOFTWARE
 ## CONTROL INDUSTRIAL CON JAVA 🚀
 
 
-https://github.com/aadiegoaa96/JAVA/issues/1#issue-680786898
+
+
+
+![INDUSTRIAL CONTROL JAVA](https://user-images.githubusercontent.com/22797982/90487185-bb302b80-e0ff-11ea-8b8f-3d55c8ec2d8f.jpg)
+
+
+
 
 
 ### Pre-requisitos 📋
