@@ -27,6 +27,7 @@ EMBEDDED AND WEB SOFTWARE
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [PANAMAHITEK](https://github.com/PanamaHitek/PanamaHitek_Arduino) - This framework provides Arduino and Java conection
+* [NETBEANS](https://netbeans.org/features/java/index.html)
 
 ## Autores ✒️
 
